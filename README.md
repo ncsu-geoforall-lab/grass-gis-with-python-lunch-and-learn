@@ -6,6 +6,23 @@ This is a set of Jupyter Notebooks for
 Lunch and Learn at the Center for Geospatial Analytics
 hosted by the NC State Geospatial Graduate Student Organization (GGSO).
 
+## Running
+
+### In Binder
+
+For running on <mybinder.org>, use the Binder badge above.
+
+### In Google Colab
+
+Upload the file _colab_notebook.ipynb_ to Google Colab.
+
+Maintenance note: Use the command below to merge install instructions
+and the two notebooks into one file for Colab (_nbmerge_ required):
+
+```sh
+nbmerge colab_install.ipynb part_1.ipynb part_2.ipynb -o colab_notebook.ipynb
+```
+
 ## Authors
 
 - Vaclav Petras, NCSU Center for Geospatial Analytics
