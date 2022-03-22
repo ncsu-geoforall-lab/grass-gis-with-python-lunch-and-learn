@@ -4,7 +4,7 @@
 set -e
 
 # get the source code
-git clone --depth 1 --branch 21e0669fee9dced4c29d6f8081c93afc67c61548 https://github.com/chaedri/grass.git grass-src
+git clone --depth 1 --branch Jupyter-Timeseries https://github.com/chaedri/grass.git grass-src
 
 # enter the directory with source code
 cd grass-src
