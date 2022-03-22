@@ -1,6 +1,6 @@
 # GRASS GIS with Python (GGSO Lunch and Learn)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncsu-geoforall-lab/grass-gis-with-python-lunch-and-learn/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncsu-geoforall-lab/grass-gis-with-python-lunch-and-learn/main?labpath=part_1.ipynb)
 
 This is a set of Jupyter Notebooks for
 Lunch and Learn at the Center for Geospatial Analytics
